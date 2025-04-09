@@ -54,7 +54,9 @@ RegisterNumber:212224230208
 
 **TRUTH TABLE**
 
-![Screenshot 2025-03-14 082328](https://github.com/user-attachments/assets/2f4155f6-6321-4377-83b5-5f30c983ff34)
+![e0070843-a252-4c47-888c-8dd2123bfbea](https://github.com/user-attachments/assets/3148b487-c047-4614-9f6d-cae761d379c3)
+![65199166-e54c-40d1-8d92-a2e45fab5b41](https://github.com/user-attachments/assets/99ffdc6c-96a7-4999-918c-08413a6c7127)
+
 
 
 **Output:**
